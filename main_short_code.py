@@ -1,4 +1,4 @@
-# It is short form of code in which (computer-you) performed
+''' It is short form of code in which (computer-you) performed '''
 
 
 import random
